@@ -22,6 +22,7 @@ guia de como usar el proyecto y que se puede hacer para mejorarlo
 
 ##CREDITOS
 Recibi la colaboración del alumno Santiago Rinaldi
+Este trabajo está realizado por Vero y Aloé
 
 ##LICENCIAS
 Editor de Código Visual Studio Code
