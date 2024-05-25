@@ -1,5 +1,5 @@
 #PROYECTO DE PRACTICO N°1#
-Se hacen commits, se trabaja con branch y se pushea el proyecto entre dos 3 alumnos.
+Se hacen commits, se trabaja con branch y se pushea el proyecto entre dos 2 alumnas: Veronica Ramirez y Aloe Bordone
 
 ##Tabla de Contenidos
 Instalación de Git
@@ -9,8 +9,8 @@ Instalación de Editor de Código
 ##Instalación
 Crear el usuario en github
 Aceptar invitación de colaborador
-Clonar el repositorio PRAC1_GIT 
-Descagar archivo en local PRAC1_GIT
+Clonar el repositorio practico_git 
+Descagar archivo en local practico_git
 Efectuar cambios en el mismo
 
 ##USO
